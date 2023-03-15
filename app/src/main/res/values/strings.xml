@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TMDBClient</string>
+    <string name="tv_movie">Movie</string>
+    <string name="tv_artist">Artist</string>
+    <string name="btn_tvshow">Tv Show</string>
+</resources>
